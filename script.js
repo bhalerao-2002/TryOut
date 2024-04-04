@@ -102,6 +102,15 @@ function cursorAnimation() {
     })
 }
 
+//  function sheryAnimation(){
+//   Shery.imageEffect(".img-container", {
+//     style: 6,
+//     debug: true,
+//     gooey: true,
+//   });
+//  }
+
 locomotiveAnimation()
 loadingAnimation()
 // cursorAnimation()
+// sheryAnimation()
